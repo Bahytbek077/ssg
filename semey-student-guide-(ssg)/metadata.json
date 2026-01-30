@@ -1,0 +1,8 @@
+
+{
+  "name": "Semey Student Guide (SSG)",
+  "description": "A community-driven digital adaptation guide and map for international first-year students in Semey, Kazakhstan, focusing on safety, food, and culturally-aligned needs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
